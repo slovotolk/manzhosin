@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+     </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+    <data name="Auto-post settings" xml:space="preserve">
+    <value>Auto-post settings</value>
+    <comment></comment>
+  </data>
+  <data name="NoMoreCaptchasExplanation" xml:space="preserve">
+    <value>Get rid of CAPTCHAs by verifying your mobile phone. Submit your cell phone number and we'll text you a code to enter in the form below and be done with CAPTCHAs on this computer. This will only eliminate CAPTCHAs on this computer, so don't complete this process if you're on a public computer.</value></data>
+    <data name="SyncTypeSeeLess" xml:space="preserve">
+    <value>See less</value>
+    <comment></comment>
+  </data>
+  <data name="SyncTypeSeeMore" xml:space="preserve">
+    <value>See more</value>
+    <comment></comment>
+  </data>
+  <data name="SyncSettings" xml:space="preserve">
+    <value>Sync Settings</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationCodeNotValidMessage" xml:space="preserve">
+    <value>The confirmation code you have entered is invalid. Please double-check and try again.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationCodeNotValidTitle" xml:space="preserve">
+    <value>Confirmation Code Is Not Valid</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentMessage" xml:space="preserve">
+    <value>A confirmation email was sent to your new email address. Please confirm this change by clicking the link in the email or entering the confirmation code in the form below.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentTitle" xml:space="preserve">
+    <value>Confirmation Email Sent</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentMessage" xml:space="preserve">
+    <value>You have requested to change your contact email address. A confirmation email was sent to your new email address. Please confirm this change by clicking the link in the email or entering the confirmation code in the form below.</value>
+    <comment></comment>
+  </data>
+    <data name="ChangeEmailConfirmationSuccessMessage" xml:space="preserve">
+    <value>You have successfully changed your email address.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationSuccessTitle" xml:space="preserve">
+    <value>Your Email Address Has Been Changed</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailErrorOccurredMessage" xml:space="preserve">
+    <value>An error occurred while processing your request. Please try again in a few minutes.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailErrorOccurredTitle" xml:space="preserve">
+    <value>Error Has Occurred</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidPasswordMessage" xml:space="preserve">
+    <value>The password you have entered is invalid. Please double-check and try again.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidPasswordTitle" xml:space="preserve">
+    <value>Invalid Password</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressAlreadyInUseMessage" xml:space="preserve">
+    <value>That email is already in use. Please double check the email address and try again. Please visit &lt;a href="../support/help"&gt;the help page&lt;/a&gt; for more information.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressAlreadyInUseTitle" xml:space="preserve">
+    <value>Email Already In Use</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressBannedMessage" xml:space="preserve">
+    <value>The email address you have entered is from a email server that is currently banned. Please try with another email address.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressBannedTitle" xml:space="preserve">
+    <value>Banned Email Host</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidMessage" xml:space="preserve">
+    <value>The email address you have entered is invalid. Please double check the address and submit again. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidTitle" xml:space="preserve">
+    <value>Invalid Email Address</value>
+    <comment></comment>
+  </data>
+<data name="ChangeEmailNewAddressInvalidFormatMessage" xml:space="preserve">
+    <value>The email address you have entered is in a invalid format. Please double check the address and submit again. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidFormatTitle" xml:space="preserve">
+    <value>Invalid Format</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressTooShortMessage" xml:space="preserve">
+    <value>The email address you have entered is too short. Please double check the address and submit again. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressTooShortTitle" xml:space="preserve">
+    <value>Address Too Short</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailRequestCancelledMessage" xml:space="preserve">
+    <value>You have cancelled your request to change your primary contact email address.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailRequestCancelledTitle" xml:space="preserve">
+    <value>Request Cancelled</value>
+    <comment></comment>
+  </data>
+  <data name="ConfirmEmailChange" xml:space="preserve">
+    <value>Confirm Change of Primary Email Address</value>
+    <comment></comment>
+  </data>
+  <data name="NewContactAddress" xml:space="preserve">
+    <value>New Contact Address</value>
+    <comment></comment>
+  </data>
+  <data name="OldContactAddress" xml:space="preserve">
+    <value>Old Contact Address</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailAreYouSure" xml:space="preserve">
+    <value>Are you sure you want to continue?</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmCancel" xml:space="preserve">
+    <value>Confirm Cancel</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmCancelMessage" xml:space="preserve">
+    <value>By clicking "Confirm Cancel" below, you will cancel your request to change your primary contact email address.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailDoNotCancel" xml:space="preserve">
+    <value>Do Not Cancel</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailCaptchaRequiredMessage" xml:space="preserve">
+    <value>In order to continue please enter the characters that you see below.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailCaptchaRequiredTitle" xml:space="preserve">
+    <value>Too Many Invalid Attempts</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidCaptchaMessage" xml:space="preserve">
+    <value>The security code you have entered is invalid. Please double-check and try again.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidCaptchaTitle" xml:space="preserve">
+    <value>Invalid Security Code</value>
+    <comment></comment>
+ </data>
+</root>

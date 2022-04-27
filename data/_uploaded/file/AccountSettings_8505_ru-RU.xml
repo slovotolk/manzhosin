@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+     </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+    <data name="Auto-post settings" xml:space="preserve">
+    <value>Настройки автоматической публикации</value>
+    <comment></comment>
+  </data>
+  <data name="NoMoreCaptchasExplanation" xml:space="preserve">
+    <value>Избавьтесь от тестов CAPTCHA, подтвердив свой номер мобильного телефона. Укажите свой телефонный номер, и вы получите текстовое сообщение с кодом. После ввода этого кода в нижеприведенную форму вам больше не придется проходить тесты CAPTCHA на этом компьютере. Эти действия позволяют избавиться от тестов CAPTCHA только на этом компьютере, поэтому не следует выполнять их на общедоступном компьютере.</value></data>
+    <data name="SyncTypeSeeLess" xml:space="preserve">
+    <value>Показать меньше</value>
+    <comment></comment>
+  </data>
+  <data name="SyncTypeSeeMore" xml:space="preserve">
+    <value>Показать еще</value>
+    <comment></comment>
+  </data>
+  <data name="SyncSettings" xml:space="preserve">
+    <value>Настройки синхронизации</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationCodeNotValidMessage" xml:space="preserve">
+    <value>Введен неверный код подтверждения. Проверьте код подтверждения и повторите попытку.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationCodeNotValidTitle" xml:space="preserve">
+    <value>Неверный код подтверждения</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentMessage" xml:space="preserve">
+    <value>На ваш новый адрес электронной почты отправлено подтверждающее электронное сообщение. Чтобы подтвердить изменение адреса, перейдите по ссылке в этом электронном сообщении или введите код подтверждения в нижеприведенную форму.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentTitle" xml:space="preserve">
+    <value>Подтверждающее электронное сообщение отправлено</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationEmailSentMessage" xml:space="preserve">
+    <value>Вы запросили изменение контактного адреса электронной почты. На ваш новый адрес электронной почты отправлено подтверждающее электронное сообщение. Чтобы подтвердить изменение адреса, перейдите по ссылке в этом электронном сообщении или введите код подтверждения в нижеприведенную форму.</value>
+    <comment></comment>
+  </data>
+    <data name="ChangeEmailConfirmationSuccessMessage" xml:space="preserve">
+    <value>Адрес электронной почты успешно изменен.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmationSuccessTitle" xml:space="preserve">
+    <value>Электронный адрес изменен</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailErrorOccurredMessage" xml:space="preserve">
+    <value>Ошибка при обработке запроса. Повторите попытку через несколько минут.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailErrorOccurredTitle" xml:space="preserve">
+    <value>Ошибка</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidPasswordMessage" xml:space="preserve">
+    <value>Введен неверный пароль. Проверьте пароль и повторите попытку.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidPasswordTitle" xml:space="preserve">
+    <value>Неверный пароль</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressAlreadyInUseMessage" xml:space="preserve">
+    <value>Этот электронный адрес уже используется. Проверьте электронный адрес и повторите попытку. Дополнительные сведения см. на &lt;a href=&quot;../support/help&quot;&gt;странице справки&lt;/a&gt;.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressAlreadyInUseTitle" xml:space="preserve">
+    <value>Электронный адрес уже используется</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressBannedMessage" xml:space="preserve">
+    <value>Указанный электронный адрес расположен на заблокированном почтовом сервере. Укажите другой электронный адрес.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressBannedTitle" xml:space="preserve">
+    <value>Почтовый сервер заблокирован</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidMessage" xml:space="preserve">
+    <value>Указан неверный адрес электронной почты. Проверьте адрес и повторите попытку. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidTitle" xml:space="preserve">
+    <value>Недопустимый адрес электронной почты</value>
+    <comment></comment>
+  </data>
+<data name="ChangeEmailNewAddressInvalidFormatMessage" xml:space="preserve">
+    <value>Указанный адрес электронной почты имеет недопустимый формат. Проверьте адрес и повторите попытку. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressInvalidFormatTitle" xml:space="preserve">
+    <value>Недопустимый формат</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressTooShortMessage" xml:space="preserve">
+    <value>Указан слишком короткий адрес электронной почты. Проверьте адрес и повторите попытку. </value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailNewAddressTooShortTitle" xml:space="preserve">
+    <value>Слишком короткий адрес</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailRequestCancelledMessage" xml:space="preserve">
+    <value>Вы отменили свой запрос на изменение основного контактного адреса электронной почты.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailRequestCancelledTitle" xml:space="preserve">
+    <value>Запрос отменен</value>
+    <comment></comment>
+  </data>
+  <data name="ConfirmEmailChange" xml:space="preserve">
+    <value>Подтвердите изменение основного адреса электронной почты</value>
+    <comment></comment>
+  </data>
+  <data name="NewContactAddress" xml:space="preserve">
+    <value>Новый контактный адрес</value>
+    <comment></comment>
+  </data>
+  <data name="OldContactAddress" xml:space="preserve">
+    <value>Прежний контактный адрес</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailAreYouSure" xml:space="preserve">
+    <value>Действительно продолжить?</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmCancel" xml:space="preserve">
+    <value>Подтвердить отмену</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailConfirmCancelMessage" xml:space="preserve">
+    <value>Перейдя по приведенной ниже ссылке «Подтвердить отмену», вы отмените свой запрос на изменение основного контактного адреса электронной почты.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailDoNotCancel" xml:space="preserve">
+    <value>Не отменять</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailCaptchaRequiredMessage" xml:space="preserve">
+    <value>Для продолжения введите отображаемые ниже символы.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailCaptchaRequiredTitle" xml:space="preserve">
+    <value>Слишком много неудачных попыток</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidCaptchaMessage" xml:space="preserve">
+    <value>Введен неверный код CAPTCHA. Проверьте код CAPTCHA и повторите попытку.</value>
+    <comment></comment>
+  </data>
+  <data name="ChangeEmailInvalidCaptchaTitle" xml:space="preserve">
+    <value>Неверный код CAPTCHA</value>
+    <comment></comment>
+ </data>
+</root>
